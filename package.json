@@ -109,8 +109,8 @@
       },
       "cordova-sqlite-storage": {},
       "cordova-plugin-googlemaps": {
-        "API_KEY_FOR_ANDROID": "AIzaSyBBy8Xi4SvNFWdy4o42WrrjFHhPXAbPaqQ",
-        "API_KEY_FOR_IOS": "AIzaSyCfKtLm-LlFiOuLrkWS8U53s3C2U_4PWZQ",
+        "API_KEY_FOR_ANDROID": "",
+        "API_KEY_FOR_IOS": "",
         "LOCATION_WHEN_IN_USE_DESCRIPTION": "This app wants to get your location while this app runs only.",
         "LOCATION_ALWAYS_USAGE_DESCRIPTION": "This app wants to get your location always, even this app runs in background."
       }
